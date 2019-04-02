@@ -1,0 +1,15 @@
+.col-sm-1 {
+    border-style: solid;
+    border-width: 1px;
+    background-color: green;
+}
+.col-sm-1:hover {
+    background-color: cornflowerblue;
+    color: white;
+}
+#other-month {
+    background-color: gray;
+}
+#head {
+    background-color: white;
+}
