@@ -3,6 +3,8 @@
     border-width: 1px;
     background-color: green;
 }
+
+
 .col-sm-1:hover {
     background-color: cornflowerblue;
     color: white;
